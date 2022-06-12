@@ -30,7 +30,7 @@ There are other supported separators, but these are the most common ones.
 ------------
 
 ## Setup
-First of all, install the dependencies `with pip install -r requirements.txt`.
+First of all, install the dependencies with `pip install -r requirements.txt`.
 Next, change the values of `DISCORD_TOKEN`, `PASSWORD`, `USERNAME` and `SCHOOL_CODE` in `main.py`. These ones must be strings.
 
 Finally, change the values of `self.server_id`, `self.compiti_channel_id`, `self.comunicazioni_channel_id`. These ones must be integers.
