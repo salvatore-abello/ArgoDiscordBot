@@ -1,7 +1,7 @@
 # ArgoDiscordBot
 A bot that interfaces Argo Scuola Next with Discord.
 
-### Features:
+### Features
 - Check the announcements and reminders every two minutes, it is faster than the official Argo Scuola Next application.
 - He can send the homework via text and also via HTML table. Here's an example of how the bot sends the table with the homework: <img width="505" alt="image" src="https://user-images.githubusercontent.com/107145304/173253373-d3219acd-ab64-4f3b-a4bd-3d2c232b9fe8.png">
 - Sends homework for the next day at a specific time (14:00).
