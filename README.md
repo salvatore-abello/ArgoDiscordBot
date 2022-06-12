@@ -8,7 +8,7 @@ A bot that interfaces Argo Scuola Next with Discord.
 - Sends reminders via text.
 
 ## Usage
-To receive homework:
+### To receive homework
 - `!compiti domani` `!compiti oggi` `!compiti dopodomani`: The bot sends the homework for tomorrow/today/the day after tomorrow
 - `!compiti 30/04/22`: The bot sends the homework for 30th April
 - `!compiti`: The bot sends the homework for tomorrow
@@ -22,6 +22,12 @@ Supported date format:
 - `dd-mm-YYYY` Eg. `30-05-2022`, `30 05 2022`, `30/05/2022`
 
 There are other supported separators, but these are the most common ones.
+
+
+### To receive reminders
+`!promemoria`
+
+------------
 
 ## Setup
 First of all, install the dependencies `with pip install -r requirements.txt`.
