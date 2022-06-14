@@ -36,7 +36,7 @@ Next, change the values of `DISCORD_TOKEN`, `PASSWORD`, `USERNAME` and `SCHOOL_C
 
 Finally, change the values of `self.server_id`, `self.compiti_channel_id`, `self.comunicazioni_channel_id`. These ones must be integers.
 
-**This bot uses the [Argo Scuola Next API](https://github.com/salvatore-abello/ArgoFamigliaAPI "Argo Scuola Next API").**
+**This bot uses the [Argo Scuola Next API](https://github.com/salvatore-abello/argofamiglia "Argo Scuola Next API").**
 
 ## DISCLAIMER
 Use this bot at your own risk, as it violates the terms of the services of Argo Scuola Next.
